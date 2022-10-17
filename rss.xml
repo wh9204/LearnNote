@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <atom:link href="https://newzone.top/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://wh9204.github.io/rss.xml" rel="self" type="application/rss+xml"/>
     <title>LearnData-开源笔记</title>
-    <link>https://newzone.top/</link>
+    <link>https://wh9204.github.io/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 17 Oct 2022 02:13:56 GMT</pubDate>
-    <lastBuildDate>Mon, 17 Oct 2022 02:13:56 GMT</lastBuildDate>
+    <pubDate>Mon, 17 Oct 2022 10:03:55 GMT</pubDate>
+    <lastBuildDate>Mon, 17 Oct 2022 10:03:55 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>工具</category>
@@ -18,9 +18,9 @@
     <category>健康</category>
     <item>
       <title>电脑上实现微信双开，无需网页版或第三方软件</title>
-      <link>https://newzone.top/_posts/2017-04-18-wechat_multi_open.html</link>
-      <guid>https://newzone.top/_posts/2017-04-18-wechat_multi_open.html</guid>
-      <source url="https://newzone.top/rss.xml">电脑上实现微信双开，无需网页版或第三方软件</source>
+      <link>https://wh9204.github.io/_posts/2017-04-18-wechat_multi_open.html</link>
+      <guid>https://wh9204.github.io/_posts/2017-04-18-wechat_multi_open.html</guid>
+      <source url="https://wh9204.github.io/rss.xml">电脑上实现微信双开，无需网页版或第三方软件</source>
       <category>工具</category>
       <pubDate>Tue, 18 Apr 2017 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>由于工作原因，有时候我们需要在电脑上登录多个微信。但微信限制一个客户端只能登陆一个账号，PC 端 + 网页版就成了通用方案，操作效率下降许多。</p>
@@ -47,9 +47,9 @@
     </item>
     <item>
       <title>office 2016 安装程序报错解决办法</title>
-      <link>https://newzone.top/_posts/2017-07-28-office_2016_installer_error.html</link>
-      <guid>https://newzone.top/_posts/2017-07-28-office_2016_installer_error.html</guid>
-      <source url="https://newzone.top/rss.xml">office 2016 安装程序报错解决办法</source>
+      <link>https://wh9204.github.io/_posts/2017-07-28-office_2016_installer_error.html</link>
+      <guid>https://wh9204.github.io/_posts/2017-07-28-office_2016_installer_error.html</guid>
+      <source url="https://wh9204.github.io/rss.xml">office 2016 安装程序报错解决办法</source>
       <category>系统</category>
       <pubDate>Fri, 28 Jul 2017 11:02:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>重新安装 Office 系统或更改安装组件时，经常提示：「找不到有效的安装源」，但实际这些文件都能在安装包内找到。这是由于注册表和组件而导致的报错，<strong>「找不到有效的安装源」并不是真实原因</strong>，解决方法查看下方。</p>
@@ -89,9 +89,9 @@ MSOCache 其它的目录下内容同样根据注册表的内容把它指示的�
     </item>
     <item>
       <title>OneNote 2016 无法登陆问题解决</title>
-      <link>https://newzone.top/_posts/2017-07-29-onenote_2016_cannot_be_logged_in.html</link>
-      <guid>https://newzone.top/_posts/2017-07-29-onenote_2016_cannot_be_logged_in.html</guid>
-      <source url="https://newzone.top/rss.xml">OneNote 2016 无法登陆问题解决</source>
+      <link>https://wh9204.github.io/_posts/2017-07-29-onenote_2016_cannot_be_logged_in.html</link>
+      <guid>https://wh9204.github.io/_posts/2017-07-29-onenote_2016_cannot_be_logged_in.html</guid>
+      <source url="https://wh9204.github.io/rss.xml">OneNote 2016 无法登陆问题解决</source>
       <category>系统</category>
       <pubDate>Sat, 29 Jul 2017 15:19:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>OneNote 安装后，提示输入账号，但点击「下一步」始终没反应，无法进行登陆。</p>
@@ -108,9 +108,9 @@ MSOCache 其它的目录下内容同样根据注册表的内容把它指示的�
     </item>
     <item>
       <title>电脑关机了，第二天一看确又开着的？让系统正常关机！</title>
-      <link>https://newzone.top/_posts/2017-09-02-forced_shutdown.html</link>
-      <guid>https://newzone.top/_posts/2017-09-02-forced_shutdown.html</guid>
-      <source url="https://newzone.top/rss.xml">电脑关机了，第二天一看确又开着的？让系统正常关机！</source>
+      <link>https://wh9204.github.io/_posts/2017-09-02-forced_shutdown.html</link>
+      <guid>https://wh9204.github.io/_posts/2017-09-02-forced_shutdown.html</guid>
+      <source url="https://wh9204.github.io/rss.xml">电脑关机了，第二天一看确又开着的？让系统正常关机！</source>
       <category>系统</category>
       <pubDate>Sat, 02 Sep 2017 00:38:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>电脑晚上明明按下关机键，第二天早上却发现电脑开了一晚上？</p>
@@ -154,9 +154,9 @@ MSOCache 其它的目录下内容同样根据注册表的内容把它指示的�
     </item>
     <item>
       <title>加速 SMB 协议，让 PC 变身小型 NAS</title>
-      <link>https://newzone.top/_posts/2017-09-03-smb_lan_sharing.html</link>
-      <guid>https://newzone.top/_posts/2017-09-03-smb_lan_sharing.html</guid>
-      <source url="https://newzone.top/rss.xml">加速 SMB 协议，让 PC 变身小型 NAS</source>
+      <link>https://wh9204.github.io/_posts/2017-09-03-smb_lan_sharing.html</link>
+      <guid>https://wh9204.github.io/_posts/2017-09-03-smb_lan_sharing.html</guid>
+      <source url="https://wh9204.github.io/rss.xml">加速 SMB 协议，让 PC 变身小型 NAS</source>
       <category>系统</category>
       <pubDate>Sun, 03 Sep 2017 20:57:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>Windows 系统开启 SMB 协议：</p>
@@ -185,9 +185,9 @@ MSOCache 其它的目录下内容同样根据注册表的内容把它指示的�
     </item>
     <item>
       <title>光猫改造 篇一：超级管理员密码破解（E8-C-EPON RG201O-CA_V1A2)</title>
-      <link>https://newzone.top/_posts/2017-10-18-light_cat_e8-c-epon_admin.html</link>
-      <guid>https://newzone.top/_posts/2017-10-18-light_cat_e8-c-epon_admin.html</guid>
-      <source url="https://newzone.top/rss.xml">光猫改造 篇一：超级管理员密码破解（E8-C-EPON RG201O-CA_V1A2)</source>
+      <link>https://wh9204.github.io/_posts/2017-10-18-light_cat_e8-c-epon_admin.html</link>
+      <guid>https://wh9204.github.io/_posts/2017-10-18-light_cat_e8-c-epon_admin.html</guid>
+      <source url="https://wh9204.github.io/rss.xml">光猫改造 篇一：超级管理员密码破解（E8-C-EPON RG201O-CA_V1A2)</source>
       <category>网络</category>
       <pubDate>Wed, 18 Oct 2017 18:28:00 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="为什么要获得光猫超级密码" tabindex="-1"> 为什么要获得光猫超级密码？</h2>
@@ -222,9 +222,9 @@ MSOCache 其它的目录下内容同样根据注册表的内容把它指示的�
     </item>
     <item>
       <title>光猫改造 篇二：光猫 + 路由器，实现端口映射</title>
-      <link>https://newzone.top/_posts/2017-10-18-light_cat_port_forwarding.html</link>
-      <guid>https://newzone.top/_posts/2017-10-18-light_cat_port_forwarding.html</guid>
-      <source url="https://newzone.top/rss.xml">光猫改造 篇二：光猫 + 路由器，实现端口映射</source>
+      <link>https://wh9204.github.io/_posts/2017-10-18-light_cat_port_forwarding.html</link>
+      <guid>https://wh9204.github.io/_posts/2017-10-18-light_cat_port_forwarding.html</guid>
+      <source url="https://wh9204.github.io/rss.xml">光猫改造 篇二：光猫 + 路由器，实现端口映射</source>
       <category>网络</category>
       <pubDate>Wed, 18 Oct 2017 22:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>光猫默认没有管理权限，需要先获得光猫的超管密码，参考 <a href="https://newzone.top/_posts/2017-10-18-Light_cat_E8-C-EPON_admin.html" target="_blank" rel="noopener noreferrer">光猫改造 篇一：超级管理员密码破解（E8-C-EPON RG201O-CA_V1A2）</a>。</p>
@@ -249,9 +249,9 @@ MSOCache 其它的目录下内容同样根据注册表的内容把它指示的�
     </item>
     <item>
       <title>小型网站管理员，快放弃 CDN！</title>
-      <link>https://newzone.top/_posts/2018-01-19-forget_the_cdn.html</link>
-      <guid>https://newzone.top/_posts/2018-01-19-forget_the_cdn.html</guid>
-      <source url="https://newzone.top/rss.xml">小型网站管理员，快放弃 CDN！</source>
+      <link>https://wh9204.github.io/_posts/2018-01-19-forget_the_cdn.html</link>
+      <guid>https://wh9204.github.io/_posts/2018-01-19-forget_the_cdn.html</guid>
+      <source url="https://wh9204.github.io/rss.xml">小型网站管理员，快放弃 CDN！</source>
       <category>服务器</category>
       <pubDate>Fri, 19 Jan 2018 12:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<blockquote>
@@ -273,9 +273,9 @@ MSOCache 其它的目录下内容同样根据注册表的内容把它指示的�
     </item>
     <item>
       <title>雇个机器人帮你干活</title>
-      <link>https://newzone.top/_posts/2018-01-31-hire_a_robot.html</link>
-      <guid>https://newzone.top/_posts/2018-01-31-hire_a_robot.html</guid>
-      <source url="https://newzone.top/rss.xml">雇个机器人帮你干活</source>
+      <link>https://wh9204.github.io/_posts/2018-01-31-hire_a_robot.html</link>
+      <guid>https://wh9204.github.io/_posts/2018-01-31-hire_a_robot.html</guid>
+      <source url="https://wh9204.github.io/rss.xml">雇个机器人帮你干活</source>
       <category>自动化</category>
       <pubDate>Wed, 31 Jan 2018 22:51:00 GMT</pubDate>
       <content:encoded><![CDATA[<blockquote>
@@ -308,9 +308,9 @@ AI 会取代你的工作！</p>
     </item>
     <item>
       <title>提早晚餐，饿死算逑</title>
-      <link>https://newzone.top/_posts/2018-03-06-no_more_dinner.html</link>
-      <guid>https://newzone.top/_posts/2018-03-06-no_more_dinner.html</guid>
-      <source url="https://newzone.top/rss.xml">提早晚餐，饿死算逑</source>
+      <link>https://wh9204.github.io/_posts/2018-03-06-no_more_dinner.html</link>
+      <guid>https://wh9204.github.io/_posts/2018-03-06-no_more_dinner.html</guid>
+      <source url="https://wh9204.github.io/rss.xml">提早晚餐，饿死算逑</source>
       <category>健康</category>
       <pubDate>Tue, 06 Mar 2018 22:06:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>上大学后，每天晚上都打游戏点「叉鸭例牌 + 两碗米饭」，体重成功上到 85KG。后来减肥在 13 年达到历史低点 75KG，但后来持续上升，在 18 年春节达到顶点，93KG，比婚前胖了<strong>38 斤</strong>。</p>
