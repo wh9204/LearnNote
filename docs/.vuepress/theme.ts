@@ -6,11 +6,11 @@ import sidebar from "./sidebar";
 export default hopeTheme({
   //主题选项
   //https://vuepress-theme-hope.github.io/v2/zh/config/theme/layout.html
-  hostname: "https://newzone.top",
+  hostname: "https://wh9204.github.io/",
 
   author: {
-    name: "清顺",
-    url: "https://newzone.top",
+    name: "四月",
+    url: "https://wh9204.github.io/",
   },
 
   iconAssets: "iconfont",
@@ -68,7 +68,7 @@ export default hopeTheme({
   //https://vuepress-theme-hope.github.io/v2/zh/config/theme/feature.html
   blog: {
     articleInfo: ["Date", "PageView", "Category", "Tag", "ReadingTime"],
-    name: "清顺",
+    name: "四月",
     avatar: "/avatar_self.webp",
     description: "迷信新工具，热衷于研究开源软件、心理学理论，定期分享探索成果",
     intro: "/intro.html",
