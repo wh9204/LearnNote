@@ -6,16 +6,81 @@
     <link>https://wh9204.github.io/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 17 Oct 2022 10:03:55 GMT</pubDate>
-    <lastBuildDate>Mon, 17 Oct 2022 10:03:55 GMT</lastBuildDate>
+    <pubDate>Wed, 23 Nov 2022 09:24:21 GMT</pubDate>
+    <lastBuildDate>Wed, 23 Nov 2022 09:24:21 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>android</category>
     <category>工具</category>
     <category>系统</category>
     <category>网络</category>
     <category>服务器</category>
     <category>自动化</category>
-    <category>健康</category>
+    <item>
+      <title>busybox安装失败解决方法</title>
+      <link>https://wh9204.github.io/_posts/2022-11-23-busybox-install-failed.html</link>
+      <guid>https://wh9204.github.io/_posts/2022-11-23-busybox-install-failed.html</guid>
+      <source url="https://wh9204.github.io/rss.xml">busybox安装失败解决方法</source>
+      <category>android</category>
+      <pubDate>Wed, 23 Nov 2022 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>安卓4安装<strong>busybox</strong>，报错信息如下</p>
+<h1 id="busybox-install" tabindex="-1"> ./busybox --install</h1>
+<div><pre><code>busybox: /usr/bin/[[: No such file or directory
+busybox: /sbin/acpid: Invalid cross-device link
+busybox: /usr/bin/add-shell: No such file or directory
+busybox: /bin/addgroup: No such file or directory
+busybox: /bin/adduser: No such file or directory
+busybox: /sbin/adjtimex: Invalid cross-device link
+busybox: /sbin/arp: Invalid cross-device link
+busybox: /usr/bin/arping: No such file or directory
+busybox: /bin/ash: No such file or directory
+busybox: /usr/bin/awk: No such file or directory
+busybox: /bin/base64: No such file or directory
+busybox: /usr/bin/basename: No such file or directory
+busybox: /usr/bin/beep: No such file or directory
+busybox: /sbin/blkid: Invalid cross-device link
+busybox: /sbin/blockdev: Invalid cross-device link
+busybox: /sbin/bootchartd: Invalid cross-device link
+busybox: /usr/sbin/brctl: No such file or directory
+busybox: /usr/bin/bunzip2: No such file or directory
+busybox: /usr/bin/bzcat: No such file or directory
+busybox: /usr/bin/bzip2: No such file or directory
+busybox: /usr/bin/cal: No such file or directory
+busybox: /bin/cat: No such file or directory
+busybox: /bin/catv: No such file or directory
+busybox: /usr/bin/chat: No such file or directory
+busybox: /bin/chattr: No such file or directory
+busybox: /bin/chgrp: No such file or directory
+busybox: /bin/chmod: No such file or directory
+busybox: /bin/chown: No such file or directory
+busybox: /usr/sbin/chpasswd: No such file or directory
+busybox: /usr/bin/chpst: No such file or directory
+busybox: /usr/sbin/chroot: No such file or directory
+busybox: /usr/bin/chrt: No such file or directory
+busybox: /usr/bin/chvt: No such file or directory
+busybox: /usr/bin/cksum: No such file or directory
+busybox: /usr/bin/clear: No such file or directory
+busybox: /usr/bin/cmp: No such file or directory
+busybox: /usr/bin/comm: No such file or directory
+busybox: /bin/cp: No such file or directory
+busybox: /bin/cpio: No such file or directory
+busybox: /usr/sbin/crond: No such file or directory
+busybox: /usr/bin/crontab: No such file or directory
+busybox: /usr/bin/cryptpw: No such file or directory
+busybox: /bin/cttyhack: No such file or directory
+busybox: /usr/bin/cut: No such file or directory
+busybox: /bin/date: No such file or directory
+busybox: /usr/bin/dc: No such file or directory
+busybox: /bin/dd: No such file or directory
+busybox: /usr/bin/deallocvt: No such file or directory
+busybox: /bin/delgroup: No such file or directory
+busybox: /bin/deluser: No such file or directory
+busybox: /sbin/depmod: Invalid cross-device link
+busybox: /sbin/devmem: Invalid cross-device link```
+
+解决方案：
+**busybox --install /system/bin**</code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div>]]></content:encoded>
+    </item>
     <item>
       <title>电脑上实现微信双开，无需网页版或第三方软件</title>
       <link>https://wh9204.github.io/_posts/2017-04-18-wechat_multi_open.html</link>
@@ -304,93 +369,6 @@ AI 会取代你的工作！</p>
 <li><a href="https://www.guokr.com/" target="_blank" rel="noopener noreferrer">果壳网</a>：果壳首页推荐，官方更新速度较慢，刚好可以了解些奇思妙想</li>
 <li>工作类：梅花、SocialBeta、数英网、艾瑞网</li>
 </ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>提早晚餐，饿死算逑</title>
-      <link>https://wh9204.github.io/_posts/2018-03-06-no_more_dinner.html</link>
-      <guid>https://wh9204.github.io/_posts/2018-03-06-no_more_dinner.html</guid>
-      <source url="https://wh9204.github.io/rss.xml">提早晚餐，饿死算逑</source>
-      <category>健康</category>
-      <pubDate>Tue, 06 Mar 2018 22:06:00 GMT</pubDate>
-      <content:encoded><![CDATA[<p>上大学后，每天晚上都打游戏点「叉鸭例牌 + 两碗米饭」，体重成功上到 85KG。后来减肥在 13 年达到历史低点 75KG，但后来持续上升，在 18 年春节达到顶点，93KG，比婚前胖了<strong>38 斤</strong>。</p>
-<p>目前以在家办公为主，很少出门，每天走路都没走多少，更别说运动了。</p>
-<p><strong>解决方案：</strong></p>
-<ol>
-<li>
-<p>增加运动：每天划船机 2 公里，后期再逐步加量</p>
-</li>
-<li>
-<p>调节饮食，多喝水不吃炸鸡</p>
-<ul>
-<li>
-<p>早餐：9 点，牛奶 + 麦片</p>
-</li>
-<li>
-<p>午餐：12 点，正常</p>
-</li>
-<li>
-<p>晚餐：4 点，晚餐后不再吃东西</p>
-</li>
-</ul>
-</li>
-</ol>
-<table>
-<thead>
-<tr>
-<th>日期</th>
-<th>历史体重</th>
-<th>备注</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>2012 年 9 月 2 日 23:04:51</td>
-<td>85KG</td>
-<td>今天吃了 3 个苹果，3 块钱煎饼。刚洗完澡</td>
-</tr>
-<tr>
-<td>2013 年 4 月 11 日 21:24:54</td>
-<td>86.4KG</td>
-<td>脱去外套</td>
-</tr>
-<tr>
-<td>2013 年 9 月 5 日 8 点</td>
-<td>81.8kg</td>
-<td></td>
-</tr>
-<tr>
-<td>2013 年 10 月 3 日 9:55:02</td>
-<td>78.7KG</td>
-<td></td>
-</tr>
-<tr>
-<td>2014 年 2 月 25 日春节</td>
-<td>83KG</td>
-<td>重新开始减重</td>
-</tr>
-<tr>
-<td>2014 年 10 月 19 日 16:50:10</td>
-<td>86.1KG</td>
-<td></td>
-</tr>
-<tr>
-<td>2016 年 8 月 4 日</td>
-<td>88KG</td>
-<td></td>
-</tr>
-<tr>
-<td>2018 年 3 月 6 日 晚</td>
-<td>91.6 KG</td>
-<td></td>
-</tr>
-<tr>
-<td>2020 年 10 月 6 日</td>
-<td>95 KG</td>
-<td>巅峰，开始营养健康餐</td>
-</tr>
-</tbody>
-</table>
 ]]></content:encoded>
     </item>
   </channel>
